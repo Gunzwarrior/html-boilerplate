@@ -1,1 +1,1 @@
-# html-boilerplate
+Assignments to learn about HTML
